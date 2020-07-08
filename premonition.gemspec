@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ['README.md']
 
   s.add_development_dependency 'bundler', '~> 1.5'
-  s.add_development_dependency 'jekyll', '>= 2.0', '< 3.0'
+  s.add_development_dependency 'jekyll', '>= 2.0', '< 5.0'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'rake'
   s.add_development_dependency 'turn'
